@@ -18,7 +18,7 @@ This app fetches real-time weather data from an external API and displays the cu
 - **React** (Frontend framework)
 - **Vite** (Bundler for fast development)
 - **OpenWeatherMap API** (Weather data source)
-- **CSS / Bootstrap (for styling)
+- **CSS (for styling)
 
 ---
 
